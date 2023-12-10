@@ -14,7 +14,7 @@
     </head>
     <body>
         <div class="conatiner-fluid main">
-            <div class="top">
+            <div class="top p-4">
                 <p class="mb-0 display-6 text-center text-wrap">Start Time:
                     6:10pm - End Time: 7:00pm</p>
             </div>
@@ -25,13 +25,15 @@
                         <img src alt class="img-fluid">
                     </div>
                     <div class="about-me " >
-                        <p class="mb-0 text-wrap">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing
-                            elit. Quod quis quibusdam perferendis sed nisi
-                            dolorum beatae, culpa eaque pariatur non reiciendis
-                            libero ipsam totam saepe suscipit asperiores sit
-                            voluptate aut!
-                        </p>
+                        <h4 class="text-bold display-6">Tahrim Kabir</h4>
+                        <ul>
+                            <li class="">
+                                BSc in Software Engineering from Noakhali Science & Technology University.
+                            </li>
+                            <li>
+                            searching for internship.
+                            </li>
+                        </ul>
                     </div>
                 </div>
                 <div class="col-md-10">
@@ -53,8 +55,8 @@
                         @endforeach
                        
 
-                        <div class="col-md-12 bottom bg-danger">
-                            hi
+                        <div class="col-md-12 bottom bg-dark text-center  p-4">
+                            <a href="https://github.com/TahrimKabir/tahrim" class=" mb-0 text-info"> github|TahrimKabir</a>
                         </div>
                     </div>
                 </div>
